@@ -4,7 +4,7 @@ import webbrowser
 import urllib.parse
 
 '''
-My idea was to use request module and then scrap but we can use this method too.
+My idea was to use request module and then scrape but we can use this method too.
 
 '''
 
